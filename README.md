@@ -5,7 +5,7 @@ GUI Youtube Downloader utilising Tkinter and PyTube.
 - Python
 - PyTube
 ```Bash
-$ python -m pip install git+https://github.com/pytube/pytube
+$ python3 -m pip install git+https://github.com/pytube/pytube
 ```
 - Tkinter
 ```Bash
